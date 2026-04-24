@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Aesthetics</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="projects.html">Projects</a>
+    <a href="blog.html">Blog</a>
+    <a href="aesthetic.html">Aesthetic</a>
+  </nav>
+
+  <h1>Just pics</h1>
+  <p>reflection of my mood</p>
+
+</body>
+</html>
